@@ -65,7 +65,8 @@ public class Task_1_Online_Banking_System {
         // Implement a loop for continuous user interaction and menu-based operations
         while (true) {
             // Display options for users to choose from
-            // Handle user input for actions (deposit, withdraw, transfer, check balance, view history, etc.)
+            // Handle user input for actions (deposit, withdraw, transfer, check balance,
+            // view history, etc.)
         }
     }
 }
